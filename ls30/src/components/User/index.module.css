@@ -1,0 +1,9 @@
+.user_card {
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid #27ae60;
+    border-radius: 10px;
+    padding: 30px;
+  }
